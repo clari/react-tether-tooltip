@@ -1,0 +1,7 @@
+*.iml
+*.log
+.idea
+.nvmrc
+dist
+lib
+node_modules
